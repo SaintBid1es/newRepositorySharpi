@@ -1,0 +1,33 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Image\105c3bd55040ac5aa76b67e7b1f65be9.png" />
+    <None Remove="Image\c1d5dbf0f86168a3fae0dcf396bf3756.png" />
+    <None Remove="Image\e562b3dfc05aa5750247d3d52c146bb6.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\JsonConverterTest\JsonConverterTest.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="Image\105c3bd55040ac5aa76b67e7b1f65be9.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Image\c1d5dbf0f86168a3fae0dcf396bf3756.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Image\e562b3dfc05aa5750247d3d52c146bb6.png">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Resource>
+  </ItemGroup>
+
+</Project>

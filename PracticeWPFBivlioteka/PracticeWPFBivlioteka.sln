@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34525.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PracticeWPFBivlioteka", "PracticeWPFBivlioteka\PracticeWPFBivlioteka.csproj", "{B7EDDFB9-9318-47BC-A765-0173EF39B315}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JsonConverterTest", "JsonConverterTest\JsonConverterTest.csproj", "{7F3614A5-DE25-42B2-AC54-C12E3222248E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B7EDDFB9-9318-47BC-A765-0173EF39B315}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7EDDFB9-9318-47BC-A765-0173EF39B315}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7EDDFB9-9318-47BC-A765-0173EF39B315}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7EDDFB9-9318-47BC-A765-0173EF39B315}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7F3614A5-DE25-42B2-AC54-C12E3222248E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F3614A5-DE25-42B2-AC54-C12E3222248E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7F3614A5-DE25-42B2-AC54-C12E3222248E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7F3614A5-DE25-42B2-AC54-C12E3222248E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1D4062E2-3BBA-4190-8F04-F90C60F9BAD6}
+	EndGlobalSection
+EndGlobal

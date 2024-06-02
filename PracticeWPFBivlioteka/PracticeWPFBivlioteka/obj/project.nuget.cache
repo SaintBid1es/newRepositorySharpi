@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "EB1JJVOxKoalhi38Cxlv3clMINm1V0ePceqnZXlXbY5b+atJ0OCWe7i9pMobGesWYK26sT4jP07nCSoBGypSsQ==",
+  "success": true,
+  "projectFilePath": "D:\\Users\\klesh\\Source\\Repos\\PracticeWPFBivlioteka\\PracticeWPFBivlioteka\\PracticeWPFBivlioteka.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\klesh\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

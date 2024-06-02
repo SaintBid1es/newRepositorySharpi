@@ -1,0 +1,38 @@
+﻿<Window x:Class="PracticeWPFBivlioteka.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:PracticeWPFBivlioteka"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid Background="Wheat" x:Name="SerializedBtn">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        <Grid.RowDefinitions>
+            <RowDefinition />
+            <RowDefinition />
+            <RowDefinition />
+            <RowDefinition />
+            <RowDefinition />
+            <RowDefinition />
+
+
+
+        </Grid.RowDefinitions>
+
+        <Button Background="DeepSkyBlue" FontSize="15" x:Name="SerializedBtn1" Grid.Row="5" Content="Serialized" Click="SerializedBtn1_Click"  Grid.RowSpan="2" ></Button>
+        <Button Background="DeepSkyBlue" FontSize="15" x:Name="DeserializedBtn" Grid.Row="5" Grid.Column="1" Content="DeSerialized" Click="DeserializedBtn_Click" Grid.RowSpan="2" ></Button>
+        <TextBlock Text="Имя" Background="Wheat" VerticalAlignment="Top"  FontSize="24" Grid.ColumnSpan="2"  Grid.RowSpan="2"/>
+        <TextBlock Text="Фамилия" Background="Wheat" VerticalAlignment="Center"  FontSize="24" Grid.ColumnSpan="2" Grid.Row="1"  Grid.RowSpan="2"/>
+        <TextBlock Text="Телефон" Background="Wheat" VerticalAlignment="Center"  FontSize="24" Grid.ColumnSpan="2" Grid.Row="2"  Grid.RowSpan="2"/>
+        <TextBox x:Name="NameTxb" Background="White" VerticalAlignment="Top" Grid.ColumnSpan="2" Height="16" Grid.Row="1"  ></TextBox>
+        <TextBox x:Name="SurNameTxb" Background="White"  VerticalAlignment="Center" Grid.Row="2"  Grid.ColumnSpan="2" Grid.Column="0" />
+        <TextBox Background="White"  x:Name="TelephoneTxb" VerticalAlignment="Center" Grid.ColumnSpan="2" Grid.Row="3"  Grid.RowSpan="2"></TextBox>
+        <Image Source="D:\Users\klesh\Source\Repos\PracticeWPFBivlioteka\PracticeWPFBivlioteka\Image\105c3bd55040ac5aa76b67e7b1f65be9.png" Height="100" Grid.ColumnSpan="2"/>
+        <Image Source="D:\Users\klesh\Source\Repos\PracticeWPFBivlioteka\PracticeWPFBivlioteka\Image\e562b3dfc05aa5750247d3d52c146bb6.png" Grid.Row="1" Grid.ColumnSpan="2" Height="55" Grid.RowSpan="2"/>
+        <Image Source="D:\Users\klesh\Source\Repos\PracticeWPFBivlioteka\PracticeWPFBivlioteka\Image\c1d5dbf0f86168a3fae0dcf396bf3756.png" Grid.Row="2" Grid.ColumnSpan="2" Height="55" Grid.RowSpan="2"/>
+    </Grid>
+</Window>
