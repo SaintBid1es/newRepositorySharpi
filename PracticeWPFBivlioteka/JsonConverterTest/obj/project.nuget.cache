@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "P7HXC5zKIZG1FVEyNVtm/bjGYlRUb8mjFa3VKMaNocD66BcOa3pyZUbP5yBgPTfjKX+7GyM1FseHGd6K1hivzg==",
+  "dgSpecHash": "DtYhM6PDqVNG5fFWSKen5+cU9+6VFE0lVTrJBWmW4EbNtMOJRzxljbmr8KmH/oCsEKfcGChja7VVFRLBKc2Cig==",
   "success": true,
-  "projectFilePath": "D:\\Users\\klesh\\Source\\Repos\\PracticeWPFBivlioteka\\JsonConverterTest\\JsonConverterTest.csproj",
+  "projectFilePath": "D:\\Users\\klesh\\Source\\Repos\\newRepositorySharpi\\PracticeWPFBivlioteka\\JsonConverterTest\\JsonConverterTest.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\klesh\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
   ],

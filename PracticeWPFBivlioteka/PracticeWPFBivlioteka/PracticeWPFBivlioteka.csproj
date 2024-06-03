@@ -9,9 +9,9 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <None Remove="Image\105c3bd55040ac5aa76b67e7b1f65be9.png" />
-    <None Remove="Image\c1d5dbf0f86168a3fae0dcf396bf3756.png" />
-    <None Remove="Image\e562b3dfc05aa5750247d3d52c146bb6.png" />
+    <None Remove="Image\picture1.jpg" />
+    <None Remove="Image\picture2.jpg" />
+    <None Remove="Image\picture3.jpg" />
   </ItemGroup>
 
   <ItemGroup>
@@ -19,13 +19,13 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Resource Include="Image\105c3bd55040ac5aa76b67e7b1f65be9.png">
+    <Resource Include="Image\picture1.jpg">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Resource>
-    <Resource Include="Image\c1d5dbf0f86168a3fae0dcf396bf3756.png">
+    <Resource Include="Image\picture2.jpg">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Resource>
-    <Resource Include="Image\e562b3dfc05aa5750247d3d52c146bb6.png">
+    <Resource Include="Image\picture3.jpg">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Resource>
   </ItemGroup>

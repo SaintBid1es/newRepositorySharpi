@@ -79,11 +79,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Users\\klesh\\Source\\Repos\\PracticeWPFBivlioteka\\PracticeWPFBivlioteka\\PracticeWPFBivlioteka.csproj",
+      "projectUniqueName": "D:\\Users\\klesh\\Source\\Repos\\newRepositorySharpi\\PracticeWPFBivlioteka\\PracticeWPFBivlioteka\\PracticeWPFBivlioteka.csproj",
       "projectName": "PracticeWPFBivlioteka",
-      "projectPath": "D:\\Users\\klesh\\Source\\Repos\\PracticeWPFBivlioteka\\PracticeWPFBivlioteka\\PracticeWPFBivlioteka.csproj",
+      "projectPath": "D:\\Users\\klesh\\Source\\Repos\\newRepositorySharpi\\PracticeWPFBivlioteka\\PracticeWPFBivlioteka\\PracticeWPFBivlioteka.csproj",
       "packagesPath": "C:\\Users\\klesh\\.nuget\\packages\\",
-      "outputPath": "D:\\Users\\klesh\\Source\\Repos\\PracticeWPFBivlioteka\\PracticeWPFBivlioteka\\obj\\",
+      "outputPath": "D:\\Users\\klesh\\Source\\Repos\\newRepositorySharpi\\PracticeWPFBivlioteka\\PracticeWPFBivlioteka\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -104,8 +104,8 @@
         "net8.0-windows7.0": {
           "targetAlias": "net8.0-windows",
           "projectReferences": {
-            "D:\\Users\\klesh\\Source\\Repos\\PracticeWPFBivlioteka\\JsonConverterTest\\JsonConverterTest.csproj": {
-              "projectPath": "D:\\Users\\klesh\\Source\\Repos\\PracticeWPFBivlioteka\\JsonConverterTest\\JsonConverterTest.csproj"
+            "D:\\Users\\klesh\\Source\\Repos\\newRepositorySharpi\\PracticeWPFBivlioteka\\JsonConverterTest\\JsonConverterTest.csproj": {
+              "projectPath": "D:\\Users\\klesh\\Source\\Repos\\newRepositorySharpi\\PracticeWPFBivlioteka\\JsonConverterTest\\JsonConverterTest.csproj"
             }
           }
         }

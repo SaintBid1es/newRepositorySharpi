@@ -10,3 +10,16 @@ D:\Users\klesh\Source\Repos\PracticeWPFBivlioteka\JsonConverterTest\obj\Debug\ne
 D:\Users\klesh\Source\Repos\PracticeWPFBivlioteka\JsonConverterTest\obj\Debug\net8.0\refint\JsonConverterTest.dll
 D:\Users\klesh\Source\Repos\PracticeWPFBivlioteka\JsonConverterTest\obj\Debug\net8.0\JsonConverterTest.pdb
 D:\Users\klesh\Source\Repos\PracticeWPFBivlioteka\JsonConverterTest\obj\Debug\net8.0\ref\JsonConverterTest.dll
+D:\Users\klesh\Source\Repos\newRepositorySharpi\PracticeWPFBivlioteka\JsonConverterTest\bin\Debug\net8.0\JsonConverterTest.deps.json
+D:\Users\klesh\Source\Repos\newRepositorySharpi\PracticeWPFBivlioteka\JsonConverterTest\bin\Debug\net8.0\JsonConverterTest.dll
+D:\Users\klesh\Source\Repos\newRepositorySharpi\PracticeWPFBivlioteka\JsonConverterTest\bin\Debug\net8.0\JsonConverterTest.pdb
+D:\Users\klesh\Source\Repos\newRepositorySharpi\PracticeWPFBivlioteka\JsonConverterTest\obj\Debug\net8.0\JsonConverterTest.csproj.AssemblyReference.cache
+D:\Users\klesh\Source\Repos\newRepositorySharpi\PracticeWPFBivlioteka\JsonConverterTest\obj\Debug\net8.0\JsonConverterTest.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\klesh\Source\Repos\newRepositorySharpi\PracticeWPFBivlioteka\JsonConverterTest\obj\Debug\net8.0\JsonConverterTest.AssemblyInfoInputs.cache
+D:\Users\klesh\Source\Repos\newRepositorySharpi\PracticeWPFBivlioteka\JsonConverterTest\obj\Debug\net8.0\JsonConverterTest.AssemblyInfo.cs
+D:\Users\klesh\Source\Repos\newRepositorySharpi\PracticeWPFBivlioteka\JsonConverterTest\obj\Debug\net8.0\JsonConverterTest.csproj.CoreCompileInputs.cache
+D:\Users\klesh\Source\Repos\newRepositorySharpi\PracticeWPFBivlioteka\JsonConverterTest\obj\Debug\net8.0\JsonConverterTest.sourcelink.json
+D:\Users\klesh\Source\Repos\newRepositorySharpi\PracticeWPFBivlioteka\JsonConverterTest\obj\Debug\net8.0\JsonConverterTest.dll
+D:\Users\klesh\Source\Repos\newRepositorySharpi\PracticeWPFBivlioteka\JsonConverterTest\obj\Debug\net8.0\refint\JsonConverterTest.dll
+D:\Users\klesh\Source\Repos\newRepositorySharpi\PracticeWPFBivlioteka\JsonConverterTest\obj\Debug\net8.0\JsonConverterTest.pdb
+D:\Users\klesh\Source\Repos\newRepositorySharpi\PracticeWPFBivlioteka\JsonConverterTest\obj\Debug\net8.0\ref\JsonConverterTest.dll

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Test xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  <RandomTextOne>йцу</RandomTextOne>
-  <RandomTextTwo>йцуйцуйцу</RandomTextTwo>
-  <RandomTextThree>уйцуйцуйцуйцуйцуйцуй</RandomTextThree>
+  <RandomTextOne>PolinkaDubinka</RandomTextOne>
+  <RandomTextTwo>vinnitskaya</RandomTextTwo>
+  <RandomTextThree>666</RandomTextThree>
 </Test>
